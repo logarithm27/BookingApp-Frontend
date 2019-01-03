@@ -18,3 +18,5 @@ version 1.1
 ![screenshot_67](https://user-images.githubusercontent.com/34900477/50637934-2d202500-0f5c-11e9-9ae5-e269e3e2b7dd.png)
 
 ![screenshot_68](https://user-images.githubusercontent.com/34900477/50637935-2e515200-0f5c-11e9-8ed2-f38eed837555.png)
+
+![screenshot_69](https://user-images.githubusercontent.com/34900477/50637937-30b3ac00-0f5c-11e9-8596-2da606b9796a.png)
